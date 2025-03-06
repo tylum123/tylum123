@@ -1,16 +1,16 @@
 <h2 align="left">Hi 👋! My name is Minh Nguyen and I'm an Aspiring Fullstack Developer from Viet Nam</h2>
 
 <div align="center">
-  <img src="https://i.ibb.co/DDHrhVcf/Thi-t-k-ch-a-c-t-n.gif" alt="Banner" style="width:100%;" autoplay />
+  <img src="https://i.ibb.co/bcpvSvp/no-name.gif" alt="Banner" style="width:100%;" />
 </div>
 
 ### 🚀 About Me
 
-- 🎓 I'm currently a Frontend Developer Intern with a passion for learning backend technologies.
-- 💻 Tech Enthusiast exploring Fullstack Development with **React, TypeScript, Node.js, and Express**.
-- 🔍 Interested in **scalable web applications, API design, and cloud services**.
-- 🌱 Currently learning **NestJS, PostgreSQL, and Docker**.
-- 🎯 Looking to contribute to **real-world projects** and grow as a **Fullstack Developer**.
+- 🎓 **<span style="color:#facc15; font-weight:bold;">Frontend Developer Intern</span>** eager to master backend technologies.
+- 💻 **<span style="color:#22d3ee; font-weight:bold;">Code Craftsman</span>** diving deep into **React, TypeScript, Node.js, and Express**.
+- 🔍 Passionate about **scalable web applications, API architecture, and cloud computing**.
+- 🌱 Expanding my expertise with **NestJS, PostgreSQL, and Docker**.
+- 🎯 Seeking opportunities to contribute to **real-world projects** and evolve into a **Fullstack Developer**.
 
 ### 📊 GitHub Stats
 <div align="center">
