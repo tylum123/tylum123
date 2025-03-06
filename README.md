@@ -1,5 +1,9 @@
 <h2 align="left">Hi 👋! My name is Minh Nguyen and I'm an Aspiring Fullstack Developer from Viet Nam</h2>
 
+<div align="center">
+  <img src="https://i.ibb.co/DDHrhVcf/Thi-t-k-ch-a-c-t-n.gif" alt="Banner" style="width:100%;" autoplay />
+</div>
+
 ### 🚀 About Me
 
 - 🎓 I'm currently a Frontend Developer Intern with a passion for learning backend technologies.
