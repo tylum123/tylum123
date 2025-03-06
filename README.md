@@ -1,5 +1,10 @@
 <h2 align="left">Hi 👋! My name is Minh Nguyen and I'm an Aspiring Fullstack Developer from Viet Nam</h2>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Front-End+Developer+%F0%9F%92%BB;Problem+Solver+%F0%9F%94%A7;Code+Craftsman+%F0%9F%96%A5%EF%B8%8F;Innovation+Architect+%F0%9F%93%A1" alt="Typing SVG" />
+</p>
+
+
 <div align="center">
   <img src="https://i.ibb.co/bcpvSvp/no-name.gif" alt="Banner" style="width:100%;" />
 </div>
