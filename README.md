@@ -26,6 +26,11 @@
   <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
+### 📈 Contribution Graph
+<div align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=tylum123&theme=github-dark" alt="Contribution Graph" width="100%" />
+</div>
+
 ### 🛠️ Tech Stack
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
