@@ -64,7 +64,7 @@
 
 ---
 
-<p align="center">
+<p align="left">
   ✨ <strong>Let's build something amazing together!</strong> ✨
 </p>
 
