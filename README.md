@@ -47,6 +47,10 @@
 
 ---
 
+###
+<img align="right" height="150" src="https://media.tenor.com/tFrwPTMtwUgAAAAm/guradrum-gurataiko.webp"  />
+
+
 ### 📬 Contact Me
 <div align="left">
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -58,13 +62,11 @@
   <a href="https://discord.com/users/your-id"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </div>
 
-###
-<img align="right" height="150" src="https://media.tenor.com/tFrwPTMtwUgAAAAm/guradrum-gurataiko.webp"  />
 
 
 ---
 
-<p align="left">
+<p align="center">
   ✨ <strong>Let's build something amazing together!</strong> ✨
 </p>
 
